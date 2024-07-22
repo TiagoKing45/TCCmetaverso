@@ -367,13 +367,13 @@ h4 {
 
     #p-end,
     p {
-        width:98%;
+        width:95%;
         font-size: 1.1rem;
         text-align: justify;
         margin: 10px 0px;
         word-spacing: -1px;
         letter-spacing: initial;
-        padding: 2rem 5px;
+        padding: 4rem 5px;
 
     }
 
@@ -401,7 +401,7 @@ h4 {
     }
 
     .box-triple {
-        padding: 150px 0px 1250px 0px;
+        padding:auto;
 
     }
 
