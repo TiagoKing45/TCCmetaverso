@@ -113,13 +113,7 @@ p {
     text-align: justify;
     flex-wrap: wrap;
     word-spacing: -1px;
-
 }
-
-
-
-
-
 .videos {
     width: 100%;
     display: flex;
@@ -191,7 +185,8 @@ h1 {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    margin: 1px 0;
+    padding-bottom:2rem;
+   
 }
 
 .box-legend {
