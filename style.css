@@ -328,7 +328,6 @@ h4 {
     }
 
 
-    
     .box-1,
     .box-2,
     .box-3,
@@ -350,9 +349,8 @@ h4 {
 
 
     }
-    
-    
 
+  
     .img-box,
     .box-text {
         width: 90%;
@@ -369,7 +367,7 @@ h4 {
 
     #p-end,
     p {
-        width: 95%;
+        width:98%;
         font-size: 1.1rem;
         text-align: justify;
         margin: 10px 0px;
@@ -397,7 +395,7 @@ h4 {
     }
 
     h1 {
-        font-size: 28px !important;
+        font-size: 30px !important;
         text-align: center;
         margin-top: 2rem !important;
     }
