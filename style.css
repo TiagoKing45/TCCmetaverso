@@ -328,10 +328,11 @@ h4 {
     }
 
 
+    
     .box-1,
     .box-2,
-    .box-3
-    {
+    .box-3,
+    .box-4 {
         flex-direction: column;
         justify-content: center;
         align-items: center;
@@ -339,19 +340,18 @@ h4 {
         margin: 1px 0;
     }
 
-   .box-2,
+   
+    .box-2,
     .box-4 {
         display: flex;
         justify-content: center;
         margin: 0px;
-        flex-wrap: wrap;
         align-items: center !important;
 
 
     }
-
     
-    }
+    
 
     .img-box,
     .box-text {
