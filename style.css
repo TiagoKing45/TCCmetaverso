@@ -331,7 +331,7 @@ h4 {
     .box-1,
     .box-2,
     .box-3
-    .bo-4{
+    {
         flex-direction: column;
         justify-content: center;
         align-items: center;
