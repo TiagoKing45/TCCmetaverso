@@ -141,7 +141,7 @@ video {
     margin: 10px;
 }
 
-#p-br,
+#p-end-2,
 #p-end {
     margin-left: 10rem;
     word-spacing: -1px;
@@ -373,8 +373,13 @@ h4 {
         word-spacing: -1px;
         letter-spacing: initial;
         padding: 4rem 5px;
-
     }
+
+#p-end-2{
+        margin-top:-2rem;
+    }
+
+    
 
     article {
         display: flex;
