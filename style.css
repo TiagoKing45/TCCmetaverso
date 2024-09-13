@@ -77,6 +77,7 @@ main {
     width: 100dvw;
     height: 100dvh;
     margin: 1px 0;
+    padding: 20px 0px;
 }
 
 .box-2,
@@ -107,7 +108,7 @@ article {
 p {
     width: 75%;
     margin: 40px 80px;
-    font-size: 27px;
+    font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
     color: #f9fafc;
     text-align: justify;
