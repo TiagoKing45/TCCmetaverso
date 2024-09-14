@@ -88,14 +88,13 @@ main {
     width: 100dvw;
     height: 100dvh;
     margin: 1px 0;
-    padding: 50px 0px ;
+    
 
 }
 
 .img-box {
     height: 100%;
     margin: 0px;
-    padding: 50px 0px ;
 }
 
 article {
@@ -116,6 +115,7 @@ p {
     text-align: justify;
     flex-wrap: wrap;
     word-spacing: -1px;
+    padding: 60px 0px ;
 }
 .videos {
     width: 100%;
