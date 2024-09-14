@@ -95,6 +95,7 @@ main {
 .img-box {
     height: 100%;
     margin: 0px;
+    padding: 50px 0px ;
 }
 
 article {
