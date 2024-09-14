@@ -344,7 +344,7 @@ footer{
         align-items: center;
         height: auto;
         margin: 1px 0;
-        padding: 0px 30px !important;
+       
     }
 
    
@@ -381,7 +381,7 @@ footer{
         margin: 10px 0px;
         word-spacing: -1px;
         letter-spacing: initial;
-        padding: 4rem 5px;
+        padding: 4rem 10px;
     }
 
     
@@ -419,7 +419,7 @@ footer{
         height:2000px;
         display: flex;
         align-items: center;
-        padding: 0px 30px ;
+       
         gap:-50px;
     }
     
@@ -433,5 +433,6 @@ footer{
  
     .title-box-triple {
         margin-bottom: 0.9rem;
+         padding: 5px 20px ;
     }
 
