@@ -430,9 +430,11 @@ footer{
        gap:0px;}
       
     }
- 
+ h3{
+     font-size: 27px;
+ }
     .title-box-triple {
-        margin-bottom: 0.9rem;
+        margin-bottom: 1rem;
          padding: 5px 20px ;
     }
 
